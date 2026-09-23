@@ -1,0 +1,20 @@
+[
+    { 
+        "title": "The Fellowship of the Ring",
+        "date": "1954-07-29",
+        "contentHtml": "<p>Young hobbit Frodo Baggins begins his journey to destroy the One Ring with the help of his newly formed Fellowship.</p>",
+        "id": 1
+    },
+    { 
+        "title": "The Two Towers",
+        "date": "1954-11-11",
+        "contentHtml": "<p>The Fellowship is separated, and the remaining members of the Fellowship continue their journey to destroy the One Ring.</p>",
+        "id": 2
+    },
+    { 
+        "title": "The Return of the King",
+        "date": "1955-07-29",
+        "contentHtml": "<p>The final battle for Middle-earth begins, and the remaining members of the Fellowship must face the ultimate challenge to destroy the One Ring.</p>",
+        "id": 3
+    }
+]
